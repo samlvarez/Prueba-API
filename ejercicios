@@ -1,32 +1,29 @@
 [
     {
       "id":"/alumno/vegetacion/1",
-      "ob":1,
+      "ob":"1",
       "title": "Ziggy se va de picnic",
       "imageURL": "https://image.freepik.com/vector-gratis/lindo-astronauta-comiendo-donut-sosteniendo-taza-cafe-luna-dibujos-animados_138676-2527.jpg",
       "enunciado": "Ziggy está preocupado. Había prometido llevar a sus amigos de picnic a Málaga, pero no conoce la ciudad.\nAyuda a Ziggy a encontrar las zonas con campo \nutilizando la visión Cantidad de vegetación \n¿Qué zona es la más adecuada para hacer un picnic?",
-      "subtitulo":"Vegetación: ejercicio 1",
+      "subtitulo": "Vegetación: ejercicio 1",
       "opciones": ["Peñón del Cuervo","Laguna de Teatinos","Montes de Málaga","Calle Larios"]
-      //Algo más tiene que haber
     },
     {
       "id":"/alumno/vegetacion/2",
-      "ob":2,
+      "ob":"2",
       "title": "Dusty y la vegetación",
       "imageURL": "https://image.freepik.com/vector-gratis/astronauta-lindo-ilustracion-icono-historieta-tierra-globo-aire-caliente-concepto-icono-transporte-ciencia-aislado-estilo-dibujos-animados-plana_138676-2092.jpg",
       "enunciado": "Dusty le propone un desafío a Ziggy: \nComparar una imagen en verano y otra en invierno de la cantidad\n de vegetación en Málaga y responder a la siguiente pregunta.\n¿Qué tipo de ecosistema es?",
-      "subtitulo":"Vegetación: ejercicio 2",
+      "subtitulo": "Vegetación: ejercicio 2",
       "opciones": ["Bosque mediterráneo","Desierto","Estepa","Tundra"] 
-      //Algo más tiene que haber
     },
     {
       "id":"/alumno/vegetacion/3",
-      "ob":3,
+      "ob":"3",
       "title": "Ziggy y los anfibios",
       "imageURL": "https://image.freepik.com/vector-gratis/ilustracion-icono-vector-dibujos-animados-lindo-astronauta-capucha-icono-tecnologia-ciencia_138676-1995.jpg",
       "enunciado": "Ziggy está de viaje en Brasil y quiere aprovechar para fotografiar anfibios. Ayúdale a encontrar los lugares donde es más probable que vivan estos animales utilizando la visión Humedad del suelo.  \n¿Qué zona es la más adecuada para un anfibio?",
-      "subtitulo":"Fauna: ejercicio 3",
+      "subtitulo": "Fauna: ejercicio 3",
       "opciones": ["Manaus","Marabá","Santarém","Paraupebas"]
-      //Algo más tiene que haber
     },
   ]
