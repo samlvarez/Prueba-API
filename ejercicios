@@ -1,7 +1,7 @@
 [
     {
       "id":"/alumno/vegetacion/1",
-      "ob":"1",
+      "ob":1,
       "title": "Ziggy se va de picnic",
       "imageURL": "https://image.freepik.com/vector-gratis/lindo-astronauta-comiendo-donut-sosteniendo-taza-cafe-luna-dibujos-animados_138676-2527.jpg",
       "enunciado": "Ziggy está preocupado. Había prometido llevar a sus amigos de picnic a Málaga, pero no conoce la ciudad.\nAyuda a Ziggy a encontrar las zonas con campo \nutilizando la visión Cantidad de vegetación \n¿Qué zona es la más adecuada para hacer un picnic?",
